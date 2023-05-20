@@ -1,0 +1,9 @@
+Dependencies for Project 'F103', Target 'Template-REG': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_md.s)(0x4D783CD2)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Template-REG-ID:\software\KEIL5\KEIL5\ARM\PACK\Keil\STM32F1xx_DFP\2.4.0\Device\Include-ID:\software\KEIL5\KEIL5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (.\main.c)(0x6421785B)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Template-REG-ID:\software\KEIL5\KEIL5\ARM\PACK\Keil\STM32F1xx_DFP\2.4.0\Device\Include-ID:\software\KEIL5\KEIL5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (stm32f10x.h)(0x641FF049)
+I (stm32f10x_gpio.h)(0x6420073A)
+F (.\stm32f10x.h)(0x641FF049)()
+F (.\stm32f10x_gpio.c)(0x64200AA1)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-I.\RTE\_Template-REG-ID:\software\KEIL5\KEIL5\ARM\PACK\Keil\STM32F1xx_DFP\2.4.0\Device\Include-ID:\software\KEIL5\KEIL5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F10X_MD-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (stm32f10x_gpio.h)(0x6420073A)
+I (stm32f10x.h)(0x641FF049)
